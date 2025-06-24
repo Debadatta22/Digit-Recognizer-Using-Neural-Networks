@@ -1,6 +1,13 @@
 # Digit-Recognizer-Using-Neural-Networks
 Internship based task by Proxenix about Data Science and Analytics for Digit Recognizer Using Neural Networks
 
+## 🚀 Run This Project in Google Colab
+
+You can explore and run the full code in your browser using Google Colab. Just click the button below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sajUSrjbfIcETVUf6qZXfFl_he7qbbJz?usp=sharing)
+
+
 #  Handwritten Digit Recognizer Using Neural Networks
 **📌 Objective:**
 
@@ -144,9 +151,55 @@ This project helped me understand the complete pipeline of neural network traini
 
 
 
+---
+
+## 🧰 Tools & Libraries Used
+- `Python 3.x`
+- `NumPy`
+- `Pandas`
+- `Matplotlib`
+
+---
+
+## 📸 Visual Output
+The model correctly predicts and displays images like:
+
+![Sample Digit Output](path_to_image_if_hosted_later)
+
+---
+
+## 🧑‍🎓 Skills Gained
+- Python
+- NumPy
+- Data Preprocessing
+- Image Classification
+- Mathematical Modeling
+- Neural Network Fundamentals
+- Gradient Descent and Optimization
+- ReLU, Softmax, One-Hot Encoding
+- Debugging and Logical Thinking
+
+---
+
+## 📎 Future Enhancements
+- Add support for test set prediction and accuracy metrics
+- Visualize training loss curve
+- Improve performance with additional hidden layers
+- Try variations with different learning rates or batch sizes
+
+---
+
+## 📁 License
+This project is open for learning and contribution. Feel free to fork or build upon it for your own educational use.
+## 🚀 Run This Project in Google Colab
+
+You can explore and run the full code in your browser using Google Colab. Just click the button below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sajUSrjbfIcETVUf6qZXfFl_he7qbbJz?usp=sharing)
+
+
+
 
 # 🔚 Conclusion:
-This project gave me practical experience in building a working digit classifier using fundamental principles of machine learning. By manually implementing each part of the neural network, I was able to understand how deep learning models function internally and how they learn to make intelligent predictions from image data.
-
-It was a rewarding exercise that boosted my confidence in AI fundamentals and strengthened my ability to solve real-world problems using mathematical and programming knowledge.
+This project was a highly rewarding learning experience that deepened my understanding of how neural networks work at a fundamental level. By building a digit recognition system entirely from scratch using only Python and NumPy, I gained hands-on experience with the core principles of machine learning and deep learning. Implementing each component manually—from data preprocessing to forward and backward propagation—helped me grasp the internal workings of AI models and how they learn from data. This practical exposure not only strengthened my mathematical and programming skills but also gave me the confidence to take on more advanced frameworks and real-world AI challenges in the future.
 
