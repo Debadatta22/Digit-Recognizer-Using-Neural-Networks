@@ -24,7 +24,7 @@ The goal of this project was to build a basic neural network from scratch using 
 
 **My Approach and design**
 
-![Image](https://github.com/user-attachments/assets/4c6c63d2-8a78-436f-a391-1c4e402e7633)
+![Image](https://github.com/user-attachments/assets/e582013c-cecf-4e63-a062-0e8c84a67d61)
 
 ------
 
