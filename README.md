@@ -85,6 +85,66 @@ Finally, I wrote a function to test the model on individual images. It shows the
 
 This project helped me understand the complete pipeline of neural network training: from data preprocessing, forward and backward propagation, to making predictions and evaluating performance. It gave me practical insights into how AI models learn from data and how we can build intelligent systems from scratch using only basic math and logic.
 
+
+---
+
+## 🔧 Code Workflow & Explanation
+
+### 1. Load & Prepare Data
+- Read CSV using pandas
+- Shuffle dataset for randomness
+- Transpose data for easier manipulation
+- Normalize pixel values (divide by 255)
+
+### 2. Split into Training & Testing Sets
+- First 1000 samples for validation (Dev set)
+- Remaining for training
+
+### 3. Neural Network Architecture
+- **Input Layer**: 784 neurons (28x28 pixels)
+- **Hidden Layer**: 10 neurons with ReLU
+- **Output Layer**: 10 neurons with Softmax (digit classes 0–9)
+
+### 4. Forward Propagation
+- Calculate activations using matrix multiplication
+- Apply ReLU and Softmax for hidden/output layers
+
+### 5. Loss Function & One-Hot Encoding
+- Use categorical cross-entropy loss
+- Convert label digits to one-hot encoded vectors
+
+### 6. Backward Propagation
+- Compute gradients of weights & biases
+- Apply derivative of ReLU & Softmax
+- Chain rule is used to backpropagate error
+
+### 7. Gradient Descent
+- Update weights and biases using learning rate (`alpha`)
+- Loop over multiple iterations (500) to improve accuracy
+
+### 8. Prediction & Visualization
+- `make_predictions()` generates predicted digit
+- `test_prediction()` displays the image with actual and predicted label using `matplotlib`
+
+---
+
+## 🧠 Key Concepts Covered
+- Neural Networks from Scratch
+- Forward and Backward Propagation
+- ReLU and Softmax Activation Functions
+- Gradient Descent Optimization
+- One-Hot Encoding
+- NumPy Matrix Manipulation
+- Data Normalization
+- Image Classification
+
+---
+
+## 💡 Sample Results
+
+
+
+
 # 🔚 Conclusion:
 This project gave me practical experience in building a working digit classifier using fundamental principles of machine learning. By manually implementing each part of the neural network, I was able to understand how deep learning models function internally and how they learn to make intelligent predictions from image data.
 
