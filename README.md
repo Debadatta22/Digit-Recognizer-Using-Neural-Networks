@@ -181,7 +181,7 @@ The model correctly predicts and displays images like:
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 - `Python 3.x`
 - `NumPy`
 - `Pandas`
@@ -202,7 +202,7 @@ The model correctly predicts and displays images like:
 
 ---
 
-## 📎 Future Enhancements
+##  Future Enhancements
 - Add support for test set prediction and accuracy metrics
 - Visualize training loss curve
 - Improve performance with additional hidden layers
@@ -221,6 +221,6 @@ You can explore and run the full code in your browser using Google Colab. Just c
 
 
 
-# 🔚 Conclusion:
+#  Conclusion:
 This project was a highly rewarding learning experience that deepened my understanding of how neural networks work at a fundamental level. By building a digit recognition system entirely from scratch using only Python and NumPy, I gained hands-on experience with the core principles of machine learning and deep learning. Implementing each component manually—from data preprocessing to forward and backward propagation—helped me grasp the internal workings of AI models and how they learn from data. This practical exposure not only strengthened my mathematical and programming skills but also gave me the confidence to take on more advanced frameworks and real-world AI challenges in the future.
 
