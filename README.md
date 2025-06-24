@@ -20,15 +20,15 @@ The goal of this project was to build a basic neural network from scratch using 
 
 ![Image](https://github.com/user-attachments/assets/e5155baa-a800-473f-88fe-f7035797b854)
 
------
+-------------------
 
-**My Approach and design**
+# My Approach and design
 
 ![Image](https://github.com/user-attachments/assets/e582013c-cecf-4e63-a062-0e8c84a67d61)
 
 ------
 
-**Vision:**
+# Vision:
 
 The vision behind this project was to gain deep conceptual clarity and hands-on experience with:
 
