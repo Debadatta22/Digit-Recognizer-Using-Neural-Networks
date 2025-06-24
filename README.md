@@ -20,7 +20,7 @@ Image classification using raw pixel data
 
 Building smart systems from scratch with basic tools
 
-**Introduction:**
+# Introduction:
 
 Handwritten digit recognition is a classic beginner machine learning project. This task involves taking 28x28 grayscale images of digits (0 through 9) and classifying them correctly. The dataset I used is a CSV file where each row contains:
 
