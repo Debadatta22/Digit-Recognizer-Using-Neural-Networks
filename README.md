@@ -13,6 +13,21 @@ You can explore and run the full code in your browser using Google Colab. Just c
 
 The goal of this project was to build a basic neural network from scratch using only NumPy to recognize handwritten digits from the widely-used MNIST dataset (available on Kaggle). Instead of using machine learning libraries like TensorFlow or PyTorch, I wanted to explore and implement all the core concepts manually to strengthen my understanding of how neural networks work at the lowest level.
 
+![image](https://github.com/user-attachments/assets/3b945607-ab9a-45b0-8e0a-ea5558ae43f4)
+
+![image](https://github.com/user-attachments/assets/853abba3-d8c9-4189-b2a4-77ad25fee24f)
+
+
+![Image](https://github.com/user-attachments/assets/e5155baa-a800-473f-88fe-f7035797b854)
+
+-----
+
+**My Approach and design**
+
+![Image](https://github.com/user-attachments/assets/4c6c63d2-8a78-436f-a391-1c4e402e7633)
+
+------
+
 **Vision:**
 
 The vision behind this project was to gain deep conceptual clarity and hands-on experience with:
@@ -149,6 +164,19 @@ This project helped me understand the complete pipeline of neural network traini
 
 ## 💡 Sample Results
 
+**📸 Visual Output**
+
+The model correctly predicts and displays images like:
+
+![image](https://github.com/user-attachments/assets/d0c85320-1175-489d-a545-56c410da99b1)
+
+![image](https://github.com/user-attachments/assets/728d556d-b495-4635-95f9-13b0f50c7df7)
+
+![image](https://github.com/user-attachments/assets/f8ac84cd-740e-4ed5-b2c9-8124c0db10b9)
+
+![image](https://github.com/user-attachments/assets/649a8bc3-fa77-4655-a665-02ba97a71b49)
+
+![image](https://github.com/user-attachments/assets/8264e054-2abd-4f58-9869-38ec53a2b73a)
 
 
 ---
@@ -158,13 +186,6 @@ This project helped me understand the complete pipeline of neural network traini
 - `NumPy`
 - `Pandas`
 - `Matplotlib`
-
----
-
-## 📸 Visual Output
-The model correctly predicts and displays images like:
-
-![Sample Digit Output](path_to_image_if_hosted_later)
 
 ---
 
